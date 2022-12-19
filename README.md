@@ -2,6 +2,8 @@
 
 <h3>Checkpoint 01 de Digital Business Enablement </h3>
 
+#### API criada em Java utilizando SpringBoot
+
 <h4> Grupo </h4>
 <ul>
   <li> Isabela Bianca Correa de Macedo - 88493 </li>
